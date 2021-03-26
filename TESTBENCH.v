@@ -96,7 +96,7 @@ module APB;
 		 "multiple_wr":begin
 			 write(10);
 		 end
-		 "signle_wr_rd":begin
+		 "single_wr_rd":begin
            write(1);
            repeat(2) @(negedge PCLK);
            read(1);
