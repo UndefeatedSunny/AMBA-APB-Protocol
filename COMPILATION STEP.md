@@ -12,7 +12,7 @@ Synopsys VCS 2020.03
   Run Options 
   
   
-+testname=signle_wr_rd
++testname=single_wr_rd
 
 ## Multiple Read and Write
 
